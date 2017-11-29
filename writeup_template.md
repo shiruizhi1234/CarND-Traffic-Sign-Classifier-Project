@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-
+[barplot]:.bar_plot.png "bar plot"
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
@@ -55,7 +55,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-![alt text][ .bar_plot.png]
+![alt text][barplot]
 
 ### Design and Test a Model Architecture
 
