@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-[barplot]:.bar_plot.png "bar plot"
+[barplot]:bar_plot.png "bar plot"
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
